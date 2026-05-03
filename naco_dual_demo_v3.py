@@ -25,10 +25,9 @@ with col1:
     st.image("intentics_logo4.jpg", width=400)
 with col2:
     st.markdown("## powered by TEF & MGE+")
-    st.markdown("### Real Moral Geometry • Ubuntu Basin Alignment")
-
+    
+st.markdown("### Real Moral Geometry • Ubuntu Basin Alignment")
 st.markdown("**See how aligned two testimonies are — and what it would take to close the gap.**")
-st.markdown("---")
 
 # Input columns
 col_f, col_i = st.columns(2)
